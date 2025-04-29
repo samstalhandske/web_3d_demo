@@ -11,7 +11,6 @@ A 3D demo for the web, using Babylon.js and TypeScript.
 [Documented improvements that can be made.](src/improvements.md)
 
 # Build and Run
-`cd dist`
 `npm run build`
 `npm run start`
 
